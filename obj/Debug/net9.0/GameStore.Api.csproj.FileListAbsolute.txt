@@ -25,3 +25,4 @@ D:\Y4S1\Asp.net_Courses\sample\GameStore.Api\obj\Debug\net9.0\refint\GameStore.A
 D:\Y4S1\Asp.net_Courses\sample\GameStore.Api\obj\Debug\net9.0\GameStore.Api.pdb
 D:\Y4S1\Asp.net_Courses\sample\GameStore.Api\obj\Debug\net9.0\GameStore.Api.genruntimeconfig.cache
 D:\Y4S1\Asp.net_Courses\sample\GameStore.Api\obj\Debug\net9.0\ref\GameStore.Api.dll
+D:\Y4S1\Asp.net_Courses\sample\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json
